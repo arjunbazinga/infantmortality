@@ -9,4 +9,4 @@ and then go [here](https://uber.github.io/kepler.gl/#/demo), and drop the downlo
 
 
 # Analysis
-To see the analysis please go [here](https://arjunbazinga.github.io/infant_mortalilty)
+To see the analysis please go [here](https://arjunbazinga.github.io/infantmortalilty)
